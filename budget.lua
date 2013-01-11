@@ -6,7 +6,7 @@ budget {
 	weddingDress = 5000,
 	weddingGift = 5000,
 	cashGift = 2000,
-	Cars = 600 * 6,
+	cars = 600 * 6,
 	cigarette = 1000 * 4,
 	wine = 100 * 40,
 	hotel = 4000,
