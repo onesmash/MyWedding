@@ -1,4 +1,4 @@
-events {
+schedule {
 	{
 		time = "2013.1.12",
 		title = "买礼服",
